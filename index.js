@@ -1308,3 +1308,4 @@ function prodMaisBarato(array) { // => Exercicio 11
 // depMaisValioso(listaProdutos) => Resolução Exercicio 9
 // console.log(prodMaisCaro(listaProdutos)) => Resolução Exercicio 10
 // console.log(prodMaisBarato(listaProdutos)) => Resolução Exercicio 11
+//
