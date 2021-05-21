@@ -1,10 +1,13 @@
-# GamaXP #37 - Desafio 1 
-
-<h1>1º Sprint</h1>
-<h2>Descrição</h2>
-<p>Essa sprint tem como objetivo gerar funções relacionadas a gestão operacional e financeira</p>
+<h1 align='center'> GamaXP #37 - Desafio 1 </h1>
+<div align='center'>
+<img src='https://raw.githubusercontent.com/DanielObara/Gama-Academy-Challenge01/master/.github/logo.png' width='300' style='margin-left:50%'>
+</div>
+<h2 align='center'>1º Sprint</h1>
+<h3 align='center'>Descrição</h2>
+<div align='center'>Essa sprint tem como objetivo gerar funções relacionadas a gestão operacional e financeira
 <br>
 <ol><b>Sprint de 7 dias</b></ol>
+</div>
 
 #
 
@@ -27,12 +30,13 @@
 #
 
 
-<h1>2º Sprint</h1>
-<h2>Descrição</h2>
-<p>Essa sprint tem como objetivo estruturar um banco de dados relacional e gerar algumas querys iniciais</p>
+<h2 align='center'>2º Sprint</h1>
+<h3 align='center'>Descrição</h2>
+<br>
+<div align ='center'>Essa sprint tem como objetivo estruturar um banco de dados relacional e gerar algumas querys iniciais
 <br>
 <ol><b> Sprint de 7 dias</b></ol>
-
+</div>
 
 # 
 
