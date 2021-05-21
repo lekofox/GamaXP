@@ -6,11 +6,11 @@
 
 <h3>Legenda dos arquivos</h3>
 <p>
-<ul>model_exercicio_gama.mwb &#10140; Arquivo de visualização do modelo
+<ul>model_exercicio_gama.mwb &#10140; <i>Arquivo de visualização do modelo</i>
 
-<ul>tables_exercicio_gama.sql &#10140; <i>Arquivo de inserção das tabelas</i>
-<ul>data_exercicio_gama.sql &#10140; Arquivo de inserção de dados nas tabelas
-</ul></ul></ul></p>
+tables_exercicio_gama.sql &#10140; <i>Arquivo de inserção das tabelas</i>
+data_exercicio_gama.sql &#10140; <i>Arquivo de inserção de dados nas tabelas</i>
+</ul></p>
 
 <h3> Querys </h3>
 
@@ -18,6 +18,7 @@
 querys.sql &#10140; Arquivo de inserção das querys conforme desafio
 </ul>
 
+#
 
 | Enunciado | Descrição | Query |
 |-|-|-|
