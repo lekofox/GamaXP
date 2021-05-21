@@ -5,7 +5,7 @@
 <h2 align='center'>1º Sprint</h1>
 <h3 align='center'>Descrição</h2>
 <div align='center'>Essa sprint tem como objetivo gerar funções relacionadas a gestão operacional e financeira
-<br>
+<br><br>
 <ol><b>Sprint de 7 dias</b></ol>
 </div>
 
@@ -34,7 +34,7 @@
 <h3 align='center'>Descrição</h2>
 <br>
 <div align ='center'>Essa sprint tem como objetivo estruturar um banco de dados relacional e gerar algumas querys iniciais
-<br>
+<br><br>
 <ol><b> Sprint de 7 dias</b></ol>
 </div>
 
