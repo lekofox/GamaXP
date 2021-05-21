@@ -12,13 +12,25 @@
 <li>data_exercicio_gama.sql &#10140; <i>Arquivo de inserção de dados nas tabelas</i></li>
 </ul>
 </div>
-
+<br>
+<div align='center'>
+<h3 > Modelo gráfico de entidade/relacionamento </h3>
+<br>
+<br>
+<img src='./images/entidade_relacionamento.png' style='width:500px'>
+</div>
+<br>
+<br>
+<br>
 <h3 align='center'> Querys </h3>
+<br>
 <div align='center'>
 <ul >
 <li>querys.sql &#10140; Arquivo de inserção das querys conforme desafio</li>
 </ul>
 </div>
+<br>
+<br>
 
 #
 
