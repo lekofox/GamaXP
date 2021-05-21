@@ -1,8 +1,8 @@
  # Database 
  ### _Instruções de uso dos arquivos do banco de dados_
-
+<div align='center'>
 <img src='https://raw.githubusercontent.com/DanielObara/Gama-Academy-Challenge01/master/.github/logo.png' width='300' style='margin-left:50%'>
-
+</div>
 
 <h3>Legenda dos arquivos</h3>
 <p>
