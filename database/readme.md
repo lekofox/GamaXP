@@ -5,20 +5,20 @@
 </div>
 
 <h3 align='center'>Legenda dos arquivos</h3>
-<p align='center'>
-<ul align='center'>
+<div align='center'>
+<ul>
 <li>model_exercicio_gama.mwb &#10140; <i>Arquivo de visualização do modelo</i></li>
 <li>tables_exercicio_gama.sql &#10140; <i>Arquivo de inserção das tabelas</i></li>
 <li>data_exercicio_gama.sql &#10140; <i>Arquivo de inserção de dados nas tabelas</i></li>
 </ul>
-</p>
+</div>
 
 <h3 align='center'> Querys </h3>
-<p align='center'>
-<ul align='center'>
+<div align='center'>
+<ul >
 <li>querys.sql &#10140; Arquivo de inserção das querys conforme desafio</li>
 </ul>
-</p>
+</div>
 
 #
 
