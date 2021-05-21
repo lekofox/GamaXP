@@ -34,7 +34,7 @@
 <h3 align='center'>Descrição</h2>
 <br>
 <div align ='center'>Essa sprint tem como objetivo estruturar um banco de dados relacional e gerar algumas querys iniciais
-<br><br>
+<br><br>![](2021-05-20-22-44-59.png)
 <ol><b> Sprint de 7 dias</b></ol>
 </div>
 
