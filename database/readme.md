@@ -1,5 +1,5 @@
- # Database 
- ### _Instruções de uso dos arquivos do banco de dados_
+<h1 align='center'>Banco de dados</h1>
+ <h2 align='center'> <i>Instruções de uso dos arquivos do banco de dados</i></h2>
 <div align='center'>
 <img src='https://raw.githubusercontent.com/DanielObara/Gama-Academy-Challenge01/master/.github/logo.png' width='300' style='margin-left:50%'>
 </div>
