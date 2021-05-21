@@ -16,7 +16,7 @@
 <h3> Querys </h3>
 
 <ul>
-querys.sql &#10140; Arquivo de inserção das querys conforme desafio
+<li>querys.sql &#10140; Arquivo de inserção das querys conforme desafio</li>
 </ul>
 
 #
