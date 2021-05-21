@@ -17,7 +17,7 @@
 <h3 > Modelo gráfico de entidade/relacionamento </h3>
 <br>
 <br>
-<img src='./images/entidade_relacionamento.png' style='width:500px'>
+<img src='./images/entidade_relacionamento.png' style='width:400px'>
 </div>
 <br>
 <br>
